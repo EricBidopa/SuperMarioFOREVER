@@ -1,6 +1,6 @@
 # SuperMario-ReMade
 
-### This is a remake of the Super Mario Bros game. I hope you like it.
+### This is a remake of the Super Mario Bros game with some spice. I hope you like it.
 
 2. First download  and install SFML library.
 
